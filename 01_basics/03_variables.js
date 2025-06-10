@@ -26,5 +26,13 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 
 let stringNum = 33
 let covertString = String(stringNum)
-console.log(covertString);
-console.log(typeof covertString)
+// console.log(covertString);
+// console.log(typeof covertString)
+
+
+// operator -----------------
+
+console.log("1" + 2); //12
+console.log(1 + "2"); //12
+console.log("1" + 2 + 2); //122
+console.log(1 + 2 + "2"); //32
