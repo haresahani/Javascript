@@ -1,4 +1,3 @@
-//singleton
 
 //Object literals
 
